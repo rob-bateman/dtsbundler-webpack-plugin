@@ -1,0 +1,23 @@
+{
+  "name": "dtsbundler-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Generates a single module declaration file from separate generated declaration files from an EXTERNAL module",
+  "main": "plugin.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "declaration",
+    "bundling",
+    "webpack"
+  ],
+  "author": {
+    "name": "Rob Bateman",
+    "email": "rob.bateman@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.7.3"
+  }
+}
